@@ -1,0 +1,8 @@
+# All world names to lowercase
+#
+# Ex.
+#
+# worlds:
+# - world
+#
+worlds: {}
